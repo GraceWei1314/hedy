@@ -53,6 +53,7 @@ ADVENTURE_NAMES = [
     'haunted',
     'restaurant',
     'story',
+    'years',
     'songs',
     'turtle',
     'dishes',
@@ -195,6 +196,7 @@ ADVENTURE_ORDER_PER_LEVEL = {
     ],
     11: [
         'default',
+        'years',
         'haunted',
         'restaurant',
         'songs',  
